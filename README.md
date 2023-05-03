@@ -4,7 +4,7 @@
 
 - HTML
 
-<b><i>1. Hafta:Table <table> Etiketi ile İşlemler:</i></b>
+<b><i>1. Hafta: Table < table > Etiketi ile İşlemler:</i></b>
 
 - < table >
 - < tr >
