@@ -13,3 +13,8 @@
 - rowspan
 
 
+
+
+
+Tablo 4:
+![2023-05-03 (3)](https://user-images.githubusercontent.com/112883476/235873109-73de8808-5eb2-4cbf-af99-4159cc73a06d.png)
