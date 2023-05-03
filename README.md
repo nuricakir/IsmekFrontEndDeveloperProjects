@@ -1,5 +1,8 @@
 # Enstitü İSMEK Front-End Developer
 
+1. Hafta: Table Etiketi ile İşlemler
+2. Hafta: Table Etiketi ile Website Tasarımı
+
 ## 1. Hafta: Table Etiketi ile İşlemler
 
 - HTML
